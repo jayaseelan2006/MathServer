@@ -30,6 +30,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -99,3 +100,4 @@ h1 {
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
+```
