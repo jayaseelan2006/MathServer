@@ -91,6 +91,7 @@ h1 {
 </div>
 </body>
 </html>
+```
 
 ## SERVER SIDE PROCESSING:
 ![alt text](out.png)
@@ -100,4 +101,3 @@ h1 {
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
-```
